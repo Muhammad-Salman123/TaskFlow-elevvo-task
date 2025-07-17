@@ -38,5 +38,6 @@ The site is designed to work beautifully on:
 ## 📸 Screenshot
 
 
-!(taskflow-desktop.jpeg)
+![Desktop view](taskflow-desktop.jpeg)
+
 
